@@ -1,0 +1,6 @@
+{
+  "name": "MIAA — Mock Interview Agent Assistant",
+  "description": "AI-powered technical, system design, and behavioral mock interview workbench with resume parsing, live code studio, real-time coaching hints, and comprehensive evaluation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
